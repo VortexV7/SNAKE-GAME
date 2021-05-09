@@ -9,6 +9,6 @@ CREATED WITH FOLLOWING MODULE:
 
 > random (pre-installed)
 
-![alt text](https://drive.google.com/drive/u/0/folders/1mBTnpU5cVCgvTVy3JrycHzgds931OX-i)
+![alt img](https://drive.google.com/drive/u/0/folders/1mBTnpU5cVCgvTVy3JrycHzgds931OX-i)
 
 © CYBERX TV PRODUCTION 2021
