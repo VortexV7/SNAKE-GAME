@@ -3,8 +3,8 @@ SNAKE GAME CREATED WITH  BY PYTHON
 
 CREATED WITH FOLLOWING MODULE:
 
-> pygame
-> time
+> pygame;
+> time;
 > random
 
 © CYBERX TV PRODUCTION 2021
